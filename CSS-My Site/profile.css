@@ -1,0 +1,215 @@
+body {
+  margin: 0;
+  text-align: center;
+  background-color: #fdfdfd;
+}
+
+a {
+  color: #3490de;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #3fc5f0;
+}
+
+h1 {
+  margin: 0;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  font-family: 'Sacramento', cursive;
+  font-weight: normal;
+  font-size: 4.0rem;
+  color: #07689f;
+}
+
+.in-touch {
+  margin: 0;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  font-family: 'Abel', sans-serif;
+  font-weight: normal;
+  font-size: 3.5rem;
+  color: #07689f;
+}
+
+h3 {
+  margin: auto;
+  padding-top: 0;
+  padding-bottom: 0;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 1.1rem;
+  color: #07689f;
+}
+
+.top-container {
+  align-content: center;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.profile-pic {
+  align-items: center;
+  padding: 0;
+}
+
+.introduction {
+  font-family: 'Montserrat', sans-serif;
+  width: 55%;
+  margin: auto;
+  font-size: 1.6rem;
+  padding: 50px;
+  color: #07689f;
+}
+
+.about-me {
+  font-family: 'Montserrat', sans-serif;
+  width: 70%;
+  margin: auto;
+  margin-bottom: 30px;
+  font-size: 1.6rem;
+  padding: 5px;
+  color: #07689f;
+}
+
+.skills-row {
+  width: 60%;
+  margin: 5px auto 60px auto;
+  text-align: left;
+  line-height: 1.8;
+}
+
+.fanuc-ladder {
+  align-items: center;
+  margin: 0;
+  width: 30%;
+  float: left;
+  padding-right: 15px;
+}
+
+.fanuc-details {
+  font-family: 'Montserrat', sans-serif;
+  width: 105%;
+  margin: 0;
+  font-size: 1.15rem;
+  padding: 0;
+  color: #07689f;
+}
+
+.man-auto {
+  align-items: center;
+  margin: 0;
+  width: 30%;
+  float: right;
+  padding-left: 15px;
+  padding-top: 20px;
+}
+
+.plc-details {
+  font-family: 'Montserrat', sans-serif;
+  width: 105%;
+  margin: 0;
+  font-size: 1.15rem;
+  padding: 0;
+  color: #07689f;
+}
+
+.seq-program {
+  align-items: center;
+  margin: auto;
+  width: 40%;
+  float: left;
+  padding-right: 15px;
+}
+
+.seq-details {
+  font-family: 'Montserrat', sans-serif;
+  width: 105%;
+  margin: 0;
+  font-size: 1.15rem;
+  padding: 30;
+  color: #07689f;
+}
+
+.communication-details {
+  font-family: 'Montserrat', sans-serif;
+  width: 105%;
+  margin: 0;
+  font-size: 1.15rem;
+  padding: 0;
+  color: #07689f;
+}
+
+.hobbies {
+  margin: 35px 0;
+}
+
+.hobby-skills {
+  margin: 5px auto 60px auto;
+  width: 40%;
+  border-spacing: 5px;
+}
+
+.row-1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.15rem;
+  color: #07689f;
+  margin: auto;
+  text-align: left;
+}
+
+.gold-star {
+  margin: auto;
+  padding-right: 40px;
+}
+
+.get-in-touch {
+  margin: 0 0 60px;
+}
+
+.get-in-touch-detail {
+  font-family: 'Montserrat', sans-serif;
+  width: 95%;
+  margin: auto;
+  font-size: 1.15rem;
+  line-height: 1.8;
+  color: #07689f;
+}
+
+.contact-me {
+  margin: 0 auto 60px auto;
+}
+
+.btn {
+  font-family: helvetica;
+  color: #FFFFFF !important;
+  font-size: 15px;
+  text-shadow: 1px 1px 0px #7CACDE;
+  box-shadow: 1px 1px 1px #BEE2F9;
+  padding: 10px 25px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  background: #63B8EE;
+  background: linear-gradient(top, #63B8EE, #468CCF);
+  background: -ms-linear-gradient(top, #63B8EE, #468CCF);
+  background: -webkit-gradient(linear, left top, left bottom, from(#63B8EE), to(#468CCF));
+  background: -moz-linear-gradient(top, #63B8EE, #468CCF);
+}
+
+.btn:hover {
+  color: #FFFFFF !important;
+  background: #468CCF;
+}
+
+.footer-div {}
+
+.footer-copyright {
+  font-family: 'Montserrat', sans-serif;
+  margin: 20 auto 50 atuo;
+  font-size: 0.8rem;
+  padding: 0;
+  color: #07689f;
+  font-weight: bold;
+}
